@@ -1,0 +1,40 @@
+1. 在老龄化社会下，疲软的劳动力市场，如何破局？
+(1) 老年人占区域总数比例的地理性分布  （workday  population）
+(2) 劳动力参与率,隐形失业率，失业率 （各种衡量劳动力市场指标）的地理性分布
+(3) 劳动力市场中的年龄比例按照职业之间的折线图
+(4) 移民人口是否给劳动力市场注入的活力
+(5) 按照年龄状态的失业率比较
+(6) 提供无偿护理对老年人工作状态的影响以及区域性的差异
+(7) 区域的相似性比较（数据降维）
+
+
+颗粒度：postcode areas， postcode districts, local authoirty by districts
+普通扶老比，预期扶老比，实际扶老比，median，mean，
+预期寿命：80.95约等于81  没有男女分析 实际上老龄化指标也确实不应该去分析男女之间的区分，如果深究这些老龄化指标的意义的话。
+
+如何更改颗粒度 老龄化指标 下拉框， 
+
+老龄化指标 （Old-Age Dependency Ratio (OADR)，实际老年抚养比 the Real Elderly Dependency Ratio (REDR)
+Local Authority Districts
+Postcode Areas
+Postcode Districts
+
+the Dashboard about how Ageing Society effects the Labour Market
+
+Old-Age Dependency Ratio (OADR)
+Real Elderly Dependency Ratio (REDR)
+
+All
+Male
+Female
+
+
+80.95 from the world bank
+
+
+要对总的进行比较也就是说要有大文字大数字
+
+明天整理数据，导入地图数据，以及进行初步可视化，稍微写点报告
+
+
+如何衡量老龄化
